@@ -1,0 +1,24 @@
+body{
+background-color: rgba(189, 130, 238, 0.486);
+padding: 6px;
+margin: -1px;
+}
+
+
+/* Header **/
+header{
+ padding-left: 3px;
+ margin-right: auto;
+ background-color: wheat;
+ border-bottom-style: dashed;
+ border-color: lightcoral; 
+}
+
+footer{
+  padding-inline-start: 6px;
+  max-height: 9px;
+  margin-right: 7px;
+  background-color: chocolate;
+  color: blanchedalmond;
+  text-align: center;
+}
