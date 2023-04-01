@@ -2,7 +2,7 @@ body{
     font: 15px/1.5 Arial, Helvetica,sans-serif;
     padding:0;
     margin:0;
-    background-color:#519D90;
+    background-color:#9bbbb6;
 }
 
 /* Global */
@@ -17,8 +17,8 @@ ul{
 .button_1{
     height: 35px;
     width: 90px;
-    background-color: #c76f46b6;
-    color: #080101;
+    background-color: #645a55b6;
+    color: #9c6e6e;
 }
 
 
@@ -39,7 +39,7 @@ header{
   }
 
   header a{
-    color:cornsilk;
+    color:rgb(129, 117, 68);
     text-decoration:inherit;
     text-transform:uppercase ;
     font-size:auto;
@@ -67,7 +67,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-    color: #200f10;
+    color: #310508;
     font-weight: 20px;
 }
 
@@ -95,7 +95,6 @@ header a:hover{
     text-align: center;
     font-size: x-large;
   }
-}
 
 /* Newsletter */
 #newsletter{
@@ -145,6 +144,6 @@ footer{
     padding:20px;
     margin-top:20px;
     color:#ffffff;
-    background-color:#82363A;
+    background-color:#746364;
     text-align: center;
 }
