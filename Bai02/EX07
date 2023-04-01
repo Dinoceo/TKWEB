@@ -2,7 +2,7 @@ body{
   font: 15px/1.5 Arial, Helvetica,sans-serif;
   padding:0;
   margin:0;
-  background-color:#519D90;
+  background-color:#72626c;
 }
 
 /* Global */
@@ -33,7 +33,7 @@ header{
     color:#bdbcb0;
     padding-top:30px;
     min-height:70px;
-    border-bottom:#020105 10px solid;
+    border-bottom:#5c5377 10px solid;
   }
   
   header a{
@@ -64,13 +64,13 @@ header{
   }
   
   header .highlight, header .current a{
-    color: #200f10;
+    color: #927e80;
     font-weight: 20px;
     
   }
   
   header a:hover{
-    color:#878697;
+    color:#5c57a7;
     font-weight:20px;
   }
   
@@ -99,7 +99,7 @@ header{
 #newsletter{
     padding-top: 50px;
     min-height: 40px;
-    background-color: #47190f;
+    background-color: #9c7269;
 }
 
 #newsletter h1{
